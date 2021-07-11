@@ -1,10 +1,14 @@
 ---
-title: My Fifth Article
-author: Kevin Powell
-image: /assets/blog/article-5.jpg
+title: My 6thArticle
+description: Cascading style sheet… If you’re a Full-stack developer or a
+  frontend engineer then surely you might have been using CSS in your
+  application. CSS plays an important role in making your site beautiful and
+  attractive. A beautiful user interface always attracts the user and that
+  becomes a good reason for users to stay on the site for a long time.
+author: Radwan Ahmed
+date: 2021-07-11T17:13:12.611Z
+image: /assets/blog/cacoo-8-must-see-wireframes-680x450.png
 imageAlt: This is a test
-description: Cascading style sheet… If you’re a Full-stack developer or a frontend engineer then surely you might have been using CSS in your application. CSS plays an important role in making your site beautiful and attractive. A beautiful user interface always attracts the user and that becomes a good reason for users to stay on the site for a long time. 
-
 ---
 
 Cascading style sheet… If you’re a Full-stack developer or a frontend engineer then surely you might have been using CSS in your application. CSS plays an important role in making your site beautiful and attractive. A beautiful user interface always attracts the user and that becomes a good reason for users to stay on the site for a long time. 
