@@ -6,7 +6,7 @@ author: Radwan Anik
 date: 2021-07-16T13:06:41.978Z
 tags:
   - Product  Review
-image: /assets/blog/card6.jpg
+image: /assets/blog/caffeine-close-up-coffee-coffee-cup-539432.jpg
 imageAlt: product review
 ---
 <!--StartFragment-->
